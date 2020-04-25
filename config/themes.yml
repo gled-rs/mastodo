@@ -1,7 +1,0 @@
-default: styles/custom.scss
-mastodon: styles/application.scss
-photon_light: styles/photon_light.scss
-photon_dark: styles/photon_dark.scss
-paris: styles/paris.scss
-contrast: styles/contrast.scss
-mastodon-light: styles/mastodon-light.scss
